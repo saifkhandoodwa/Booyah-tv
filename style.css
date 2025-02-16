@@ -1,0 +1,45 @@
+<style>
+/* Booyah TV Futuristic Dark Mode UI */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #1E1E1E;
+}
+
+h1 {
+    color: #FFD700;
+    font-size: 2em;
+}
+
+button {
+    background-color: #FFD700;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+section {
+    background-color: #1E1E1E;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+}
+
+/* Dark Mode Toggle */
+.dark-mode {
+    background-color: #333;
+}
+</style>
